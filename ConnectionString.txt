@@ -1,0 +1,1 @@
+Server=bus-server531229.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=Americano3Now!;Connection Timeout=30;
