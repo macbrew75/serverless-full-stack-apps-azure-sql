@@ -1,4 +1,4 @@
-Server=bus-server522392.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=Americano3Now!;Connection Timeout=30;
+Server=bus-server522392.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=;Connection Timeout=30;
 
 
 Password and IP Address stored  104.40.31.123 
