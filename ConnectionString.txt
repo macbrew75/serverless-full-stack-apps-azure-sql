@@ -1,13 +1,2 @@
-Server=bus-server522392.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=;Connection Timeout=30;
 
 
-Password and IP Address stored  104.40.31.123 
-
-Please note your unique ID for future exercises in this module:
-522392
-Your resource group name is:
-learn-b0341815-7469-4cbf-9d1a-6929e934662e
-Your resources were deployed in the following region:
-westus
-Your server name is:
-bus-server522392
